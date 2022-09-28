@@ -9,4 +9,4 @@ et juste a l'instant j'ai fait mon premier pull
 
 je rajoute cela maintenant.
 la modification faite en locale
-conflit pour le locale
+conflit pour le locale .
