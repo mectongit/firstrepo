@@ -12,3 +12,4 @@ la modification faite en locale
 conflit pour le remote
 
 un texte qui n'existe que sur cette branche
+nous allons faire un conflit de branche
